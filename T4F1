@@ -1,0 +1,13 @@
+/interactive-workflows
+├── /public
+│   └── index.html
+├── /src
+│   ├── /components
+│   │   ├── Flowchart.js
+│   │   ├── StepGuide.js
+│   │   └── App.js
+│   ├── /styles
+│   │   └── App.css
+│   └── index.js
+├── package.json
+└── README.md
